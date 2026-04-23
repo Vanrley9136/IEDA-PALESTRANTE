@@ -25,6 +25,10 @@ html {
 }
 
 body {
+    zoom: 80%;
+}
+
+body {
     font-family: 'Sora', sans-serif;
     background: linear-gradient( 180deg, #f9f9f6 0%, #f2f3ee 100% );
     color: var( --text );
